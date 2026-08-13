@@ -1,0 +1,9 @@
+# markdownlint configuration for a GitHub profile README.
+# GitHub supports inline HTML for responsive, theme-aware images.
+MD013: false
+MD033:
+  allowed_elements:
+    - picture
+    - source
+    - img
+    - sub
