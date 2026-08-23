@@ -6,6 +6,26 @@ I build and shape technical products at the intersection of customer needs, AI, 
 
 Based in the **San Francisco Bay Area** and exploring **Product Manager, Technical Product Manager, AI Product Manager, and product/program roles** involving AI, cloud, or developer products.
 
+## What I build
+
+| Product area | What I develop | Representative technologies |
+| --- | --- | --- |
+| 🤖 **AI & learning products** | LLM-assisted learning experiences, proactive comprehension support, structured AI workflows | Anthropic API, prompt design, structured output |
+| 🎙️ **Speech & audio tools** | Real-time transcription, speech-speed feedback, and desktop overlays | Python, faster-whisper, WebRTC VAD, WebSocket |
+| 📊 **Data & product analytics** | Customer journeys, experiments, dashboards, and business analysis | Python, SQL, Pandas, Streamlit, Tableau |
+| ☁️ **Cloud & developer platforms** | Cloud infrastructure, APIs, delivery pipelines, and operational tooling | Azure, Terraform, REST APIs, CI/CD, DevOps |
+
+### Languages & platform stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
 ## What I'm working on
 
 - Building AI-enabled products that address concrete user friction—not AI demos in search of a problem.
@@ -53,7 +73,20 @@ A collection of applied analytics work connecting data to product and business d
 | **Technical** | TypeScript, Python, JavaScript, React, Node.js, REST APIs, Git |
 | **Business** | IT consulting, stakeholder alignment, global projects, MBA, Finance |
 
-## GitHub activity
+## GitHub activity & languages
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukyamyam&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukyamyam&theme=github">
+    <img alt="Top languages across Yuki Yamaguchi's public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukyamyam&theme=github" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukyamyam&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukyamyam&theme=github">
+    <img alt="Top languages by commit across Yuki Yamaguchi's public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukyamyam&theme=github" width="49%">
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukyamyam&theme=github_dark">
@@ -61,7 +94,7 @@ A collection of applied analytics work connecting data to product and business d
   <img alt="Yuki Yamaguchi's GitHub contribution activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukyamyam&theme=github" width="100%">
 </picture>
 
-<sub>Public-repository activity only. Product outcomes and technical decisions are described in the projects above.</sub>
+<sub>Language cards reflect public repositories only. Private product work and the development areas behind it are described above.</sub>
 
 ## Let's connect
 
