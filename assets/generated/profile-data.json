@@ -1,0 +1,207 @@
+{
+  "username": "ukyamyam",
+  "generated_at": "2026-09-09T18:17:44+00:00",
+  "scope": {
+    "included": "public repositories owned by the user",
+    "excluded": [
+      "forks",
+      "archived repositories",
+      "private repositories",
+      "profile repository"
+    ],
+    "repository_count": 9
+  },
+  "methodology": {
+    "languages": {
+      "source": "GitHub REST API /languages (GitHub Linguist)",
+      "aggregation": "sum bytes by language across selected repositories",
+      "unit": "bytes",
+      "period": "repository default branches as observed at 2026-09-09T18:17:44+00:00"
+    },
+    "layers": {
+      "unit": "repositories",
+      "aggregation": "one primary layer per selected repository",
+      "signals": [
+        "name",
+        "description",
+        "topics",
+        "default-branch file paths",
+        "languages"
+      ],
+      "precedence": [
+        "Cloud & Infra",
+        "Data & AI",
+        "Full Stack",
+        "Frontend",
+        "Backend & API",
+        "Unknown"
+      ],
+      "unknown_policy": "No reliable signal → Unknown"
+    },
+    "commits": {
+      "source": "GitHub REST API /commits with author=username",
+      "aggregation": "weekly counts, oldest to newest",
+      "start": "2025-09-15",
+      "end": "2026-09-09",
+      "weeks": 52,
+      "timezone": "UTC"
+    }
+  },
+  "repositories": [
+    {
+      "name": "catchup-podcast",
+      "layer": "Unknown",
+      "languages": {},
+      "files_scanned": 1,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "face-shooter",
+      "layer": "Frontend",
+      "languages": {
+        "HTML": 65209
+      },
+      "files_scanned": 2,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "Find",
+      "layer": "Full Stack",
+      "languages": {
+        "JavaScript": 12538,
+        "HTML": 660,
+        "Dockerfile": 314,
+        "CSS": 78
+      },
+      "files_scanned": 31,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "Gonobee",
+      "layer": "Frontend",
+      "languages": {
+        "TypeScript": 87256,
+        "JavaScript": 990,
+        "HTML": 374,
+        "CSS": 59
+      },
+      "files_scanned": 25,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "japanese-elsa-astra",
+      "layer": "Frontend",
+      "languages": {
+        "JavaScript": 11601,
+        "CSS": 2086,
+        "HTML": 400
+      },
+      "files_scanned": 14,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "koestep",
+      "layer": "Frontend",
+      "languages": {
+        "TypeScript": 19071,
+        "JavaScript": 594,
+        "HTML": 408
+      },
+      "files_scanned": 27,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "nikki",
+      "layer": "Unknown",
+      "languages": {},
+      "files_scanned": 1,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "test_repository",
+      "layer": "Unknown",
+      "languages": {},
+      "files_scanned": 3,
+      "included_in_layer_chart": true
+    },
+    {
+      "name": "ukyamyam.github.io",
+      "layer": "Frontend",
+      "languages": {
+        "HTML": 697324,
+        "SCSS": 42553,
+        "CSS": 42120,
+        "JavaScript": 13771
+      },
+      "files_scanned": 56,
+      "included_in_layer_chart": true
+    }
+  ],
+  "languages": {
+    "HTML": 764375,
+    "TypeScript": 106327,
+    "CSS": 44343,
+    "SCSS": 42553,
+    "JavaScript": 39494,
+    "Dockerfile": 314
+  },
+  "layers": {
+    "Frontend": 5,
+    "Unknown": 3,
+    "Full Stack": 1
+  },
+  "weekly_commits": {
+    "2025-09-15": 0,
+    "2025-09-22": 0,
+    "2025-09-29": 0,
+    "2025-10-06": 0,
+    "2025-10-13": 0,
+    "2025-10-20": 0,
+    "2025-10-27": 0,
+    "2025-11-03": 0,
+    "2025-11-10": 0,
+    "2025-11-17": 0,
+    "2025-11-24": 0,
+    "2025-12-01": 0,
+    "2025-12-08": 0,
+    "2025-12-15": 0,
+    "2025-12-22": 0,
+    "2025-12-29": 1,
+    "2026-01-05": 0,
+    "2026-01-12": 0,
+    "2026-01-19": 0,
+    "2026-01-26": 0,
+    "2026-02-02": 0,
+    "2026-02-09": 0,
+    "2026-02-16": 0,
+    "2026-02-23": 0,
+    "2026-03-02": 0,
+    "2026-03-09": 0,
+    "2026-03-16": 0,
+    "2026-03-23": 0,
+    "2026-03-30": 0,
+    "2026-04-06": 0,
+    "2026-04-13": 0,
+    "2026-04-20": 0,
+    "2026-04-27": 0,
+    "2026-05-04": 0,
+    "2026-05-11": 0,
+    "2026-05-18": 0,
+    "2026-05-25": 0,
+    "2026-06-01": 0,
+    "2026-06-08": 0,
+    "2026-06-15": 1,
+    "2026-06-22": 0,
+    "2026-06-29": 0,
+    "2026-07-06": 0,
+    "2026-07-13": 0,
+    "2026-07-20": 0,
+    "2026-07-27": 0,
+    "2026-08-03": 0,
+    "2026-08-10": 0,
+    "2026-08-17": 0,
+    "2026-08-24": 0,
+    "2026-08-31": 0,
+    "2026-09-07": 1
+  }
+}

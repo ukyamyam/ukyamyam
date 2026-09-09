@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" role="img" aria-label="Languages by Code Size">
+  <title>Languages by Code Size</title>
+  <desc>GitHub Linguist bytes · 9 public source repos · 2026-09-09 UTC</desc>
+  <style>
+      .bg { fill: #ffffff; stroke: #d0d7de; }
+      .title { fill: #1f2328; font: 700 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+      .subtitle { fill: #656d76; font: 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+      .label { fill: #1f2328; font: 600 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+      .muted { fill: #656d76; font: 13px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+      .grid { stroke: #d8dee4; stroke-width: 1; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0d1117; stroke: #30363d; }
+        .title, .label { fill: #e6edf3; }
+        .subtitle, .muted { fill: #8b949e; }
+        .grid { stroke: #30363d; }
+      }
+    </style>
+  <rect class="bg" x="1" y="1" width="698" height="418" rx="10"/>
+  <text class="title" x="34" y="48">Languages by Code Size</text>
+  <text class="subtitle" x="34" y="75">GitHub Linguist bytes · 9 public source repos · 2026-09-09 UTC</text>
+  <circle cx="220" cy="235" r="105" fill="none" stroke="#58a6ff" stroke-width="58" stroke-dasharray="505.596 154.138" stroke-dashoffset="-0.000" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#3fb950" stroke-width="58" stroke-dasharray="70.330 589.404" stroke-dashoffset="-505.596" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#d29922" stroke-width="58" stroke-dasharray="29.331 630.404" stroke-dashoffset="-575.926" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#f778ba" stroke-width="58" stroke-dasharray="28.147 631.588" stroke-dashoffset="-605.257" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#a371f7" stroke-width="58" stroke-dasharray="26.123 633.611" stroke-dashoffset="-633.403" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#f85149" stroke-width="58" stroke-dasharray="0.208 659.527" stroke-dashoffset="-659.527" transform="rotate(-90 220 235)"/>
+  <text class="label" x="220" y="230" text-anchor="middle">6</text>
+  <text class="muted" x="220" y="252" text-anchor="middle">categories</text>
+  <rect x="395" y="133" width="14" height="14" rx="3" fill="#58a6ff"/><text class="label" x="420" y="145">HTML</text><text class="muted" x="645" y="145" text-anchor="end">76.6%</text><rect x="395" y="166" width="14" height="14" rx="3" fill="#3fb950"/><text class="label" x="420" y="178">TypeScript</text><text class="muted" x="645" y="178" text-anchor="end">10.7%</text><rect x="395" y="199" width="14" height="14" rx="3" fill="#d29922"/><text class="label" x="420" y="211">CSS</text><text class="muted" x="645" y="211" text-anchor="end">4.4%</text><rect x="395" y="232" width="14" height="14" rx="3" fill="#f778ba"/><text class="label" x="420" y="244">SCSS</text><text class="muted" x="645" y="244" text-anchor="end">4.3%</text><rect x="395" y="265" width="14" height="14" rx="3" fill="#a371f7"/><text class="label" x="420" y="277">JavaScript</text><text class="muted" x="645" y="277" text-anchor="end">4.0%</text><rect x="395" y="298" width="14" height="14" rx="3" fill="#f85149"/><text class="label" x="420" y="310">Dockerfile</text><text class="muted" x="645" y="310" text-anchor="end">0.0%</text>
+</svg>
