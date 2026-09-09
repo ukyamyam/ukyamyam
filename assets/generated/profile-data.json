@@ -1,6 +1,6 @@
 {
   "username": "ukyamyam",
-  "generated_at": "2026-09-09T19:36:45+00:00",
+  "generated_at": "2026-09-09T20:59:15+00:00",
   "scope": {
     "included": "public repositories owned by the user",
     "excluded": [
@@ -9,14 +9,14 @@
       "private repositories",
       "profile repository"
     ],
-    "repository_count": 9
+    "repository_count": 10
   },
   "methodology": {
     "languages": {
       "source": "GitHub REST API /languages (GitHub Linguist)",
       "aggregation": "sum bytes by language across selected repositories",
       "unit": "bytes",
-      "period": "repository default branches as observed at 2026-09-09T19:36:45+00:00"
+      "period": "repository default branches as observed at 2026-09-09T20:59:15+00:00"
     },
     "layers": {
       "unit": "repositories",
@@ -135,20 +135,32 @@
       },
       "files_scanned": 56,
       "included_in_layer_chart": true
+    },
+    {
+      "name": "WPMChecker",
+      "layer": "Full Stack",
+      "languages": {
+        "Python": 39865,
+        "JavaScript": 11557,
+        "HTML": 3644
+      },
+      "files_scanned": 33,
+      "included_in_layer_chart": true
     }
   ],
   "languages": {
-    "HTML": 764375,
+    "HTML": 768019,
     "TypeScript": 106327,
+    "JavaScript": 51051,
     "CSS": 44343,
     "SCSS": 42553,
-    "JavaScript": 39494,
+    "Python": 39865,
     "Dockerfile": 314
   },
   "layers": {
     "Frontend": 5,
     "Unknown": 3,
-    "Full Stack": 1
+    "Full Stack": 2
   },
   "weekly_commits": {
     "2025-09-15": 0,
@@ -191,7 +203,7 @@
     "2026-06-01": 0,
     "2026-06-08": 0,
     "2026-06-15": 1,
-    "2026-06-22": 0,
+    "2026-06-22": 1,
     "2026-06-29": 0,
     "2026-07-06": 0,
     "2026-07-13": 0,
@@ -202,6 +214,6 @@
     "2026-08-17": 0,
     "2026-08-24": 0,
     "2026-08-31": 0,
-    "2026-09-07": 1
+    "2026-09-07": 5
   }
 }
