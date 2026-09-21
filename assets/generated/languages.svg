@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" role="img" aria-label="Languages by Code Size">
   <title>Languages by Code Size</title>
-  <desc>GitHub Linguist bytes · 10 public source repos · 2026-09-20 UTC</desc>
+  <desc>GitHub Linguist bytes · 10 public source repos · 2026-09-21 UTC</desc>
   <style>
       .bg { fill: #ffffff; stroke: #d0d7de; }
       .title { fill: #1f2328; font: 700 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
@@ -17,7 +17,7 @@
     </style>
   <rect class="bg" x="1" y="1" width="698" height="418" rx="10"/>
   <text class="title" x="34" y="48">Languages by Code Size</text>
-  <text class="subtitle" x="34" y="75">GitHub Linguist bytes · 10 public source repos · 2026-09-20 UTC</text>
+  <text class="subtitle" x="34" y="75">GitHub Linguist bytes · 10 public source repos · 2026-09-21 UTC</text>
   <circle cx="220" cy="235" r="105" fill="none" stroke="#58a6ff" stroke-width="58" stroke-dasharray="474.416 185.318" stroke-dashoffset="-0.000" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#3fb950" stroke-width="58" stroke-dasharray="65.671 594.064" stroke-dashoffset="-474.416" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#d29922" stroke-width="58" stroke-dasharray="38.406 621.328" stroke-dashoffset="-540.087" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#f778ba" stroke-width="58" stroke-dasharray="30.143 629.591" stroke-dashoffset="-578.493" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#a371f7" stroke-width="58" stroke-dasharray="26.282 633.452" stroke-dashoffset="-608.637" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#f85149" stroke-width="58" stroke-dasharray="24.622 635.113" stroke-dashoffset="-634.919" transform="rotate(-90 220 235)"/><circle cx="220" cy="235" r="105" fill="none" stroke="#39c5cf" stroke-width="58" stroke-dasharray="0.194 659.541" stroke-dashoffset="-659.541" transform="rotate(-90 220 235)"/>
   <text class="label" x="220" y="230" text-anchor="middle">7</text>
   <text class="muted" x="220" y="252" text-anchor="middle">categories</text>
