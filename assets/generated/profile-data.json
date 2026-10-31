@@ -1,6 +1,6 @@
 {
   "username": "ukyamyam",
-  "generated_at": "2026-10-30T10:07:21+00:00",
+  "generated_at": "2026-10-31T09:43:19+00:00",
   "scope": {
     "included": "public repositories owned by the user",
     "excluded": [
@@ -16,7 +16,7 @@
       "source": "GitHub REST API /languages (GitHub Linguist)",
       "aggregation": "sum bytes by language across selected repositories",
       "unit": "bytes",
-      "period": "repository default branches as observed at 2026-10-30T10:07:21+00:00"
+      "period": "repository default branches as observed at 2026-10-31T09:43:19+00:00"
     },
     "layers": {
       "unit": "repositories",
@@ -42,7 +42,7 @@
       "source": "GitHub REST API /commits with author=username",
       "aggregation": "weekly counts, oldest to newest",
       "start": "2025-11-03",
-      "end": "2026-10-30",
+      "end": "2026-10-31",
       "weeks": 52,
       "timezone": "UTC"
     }
